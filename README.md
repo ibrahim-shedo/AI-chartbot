@@ -50,7 +50,7 @@ The chatbot's intent data is structured as a dictionary containing an `intents` 
 This project is open-source and can be modified or extended as needed.
 
 ---
-**Author:** [Your Name]  
+**Author:** [Ibrahim Mohamed Shedoh]  
 **Version:** 1.0  
-**Date:** [Date]
+**Date:** [28/02/2025]
 
