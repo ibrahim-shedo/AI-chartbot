@@ -75,4 +75,3 @@ License
 This project is open-source and can be modified or extended as needed.
 
 Author: [Your Name]Version: 1.0Date: [Date]
-
